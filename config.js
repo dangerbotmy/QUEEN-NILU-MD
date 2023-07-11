@@ -12,14 +12,14 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;R64liAwJ#jZotXfXWRKqoQn7naRXhvaN6BpCSf-WkliAr2L4Tm68' // PUT your session ID BY scan QR 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94762873406'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'kasun'
 
 global.OPENAI_API_KEY = "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"
 
@@ -30,9 +30,9 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@kasun 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
@@ -42,13 +42,13 @@ global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Al
 
 global.MAX_SIZE = '10000' // Bot Uloading Max size 
 
-global.ANTI_BAD = false // Antibad (on = True , Off = False )
+global.ANTI_BAD = True // Antibad (on = True , Off = False )
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.INBOX_BLOCK = 'off'  // TO Inbox Block On put "on"
+global.INBOX_BLOCK = 'on'  // TO Inbox Block On put "on"
 
-global.ANTI_LINK = 'false' //Anti Bad (on = True , Off = False )
+global.ANTI_LINK = 'True' //Anti Bad (on = True , Off = False )
 
 global.TIMEZONE = 'Asia/Colombo' 
 
